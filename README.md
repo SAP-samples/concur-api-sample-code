@@ -1,4 +1,4 @@
-# SAP-samples/repository-template
+<!-- # SAP-samples/repository-template
 This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
 
 # Containing Files
@@ -11,22 +11,41 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 
 3. The README.md file (this file):
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
+-->
 
-# [Title]
-<!-- Please include descriptive title -->
+# Welcome to the Concur API Tutorial Navigator samples
+<!-- Title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-## Description
+## This repository contains the sample code that is used in the "Calling Concur APIs" tutorial series on SAP Tutorial Navigator.
 <!-- Please include SEO-friendly description -->
 
 ## Requirements
 
-## Download and Installation
+#### Credentials and software
+ - SAP Concur instance credentials
+ - Access to SAP Tutorial Navigator
+ - Node.Js
+ - GitHub account
+ - IDE or text editor
 
-## Known Issues
+#### Calling Concur APIs Tutorials on Tutorial Navigator
+
+These tutorials need to be done in sequence.
+1. [Tutorial 1 - Create tokens required for Concur API access](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-get-refresh-token.html) -> [Tutorial 1 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_1)
+2. [Tutorial 2 - Refresh token management automation](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-refresh-token-management.html) -> [Tutorial 2 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_2)
+3. [Tutorial 3 - Call Concur APIs using a multiple use bearer token](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-calling-apis.html) -> [Tutorial 3 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_3)
+
+
+## Download and Installation
+1. Install the [LTS version of NodeJS](https://nodejs.org/en/download).
+2. Clone or download this repo.
+3. Sign on to SAP Tutorial Navigator
+
+## No Known Issues
 <!-- You may simply state "No known issues. -->
 
 ## How to obtain support
