@@ -35,9 +35,9 @@ This repository contains the sample code that is used in the "Calling Concur API
 #### Calling Concur APIs Tutorials on Tutorial Navigator
 
 These tutorials need to be done in sequence.
-1. [Tutorial 1 - Create tokens required for Concur API access](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-get-refresh-token.html) -> [Tutorial 1 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_1)
-2. [Tutorial 2 - Refresh token management automation](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-refresh-token-management.html) -> [Tutorial 2 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_2)
-3. [Tutorial 3 - Call Concur APIs using a multiple use bearer token](https://developers-qa-blue.wcms-nonprod.c.eu-de-2.cloud.sap/tutorials/concur-calling-apis.html) -> [Tutorial 3 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_3)
+1. [Tutorial 1 - Create tokens required for Concur API access](https://developers.sap.com/tutorials/concur-get-refresh-token.html) -> [Tutorial 1 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_1)
+2. [Tutorial 2 - Refresh token management automation](https://developers.sap.com/tutorials/concur-refresh-token-management.html) -> [Tutorial 2 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_2)
+3. [Tutorial 3 - Call Concur APIs using a multiple use bearer token](https://developers.sap.com/tutorials/concur-calling-apis.html) -> [Tutorial 3 sample code](https://github.com/SAP-samples/concur-api-samplecode/tree/main/SampleCode/Tutorial_3)
 
 
 ## Download and Installation
@@ -49,7 +49,7 @@ These tutorials need to be done in sequence.
 <!-- You may simply state "No known issues. -->
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/concur-api-sample-code/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
