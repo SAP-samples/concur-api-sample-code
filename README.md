@@ -23,6 +23,9 @@ Please edit this file as it is the primary description file for your project. Yo
 This repository contains the sample code that is used in the "Calling Concur APIs" tutorial series on SAP Tutorial Navigator.
 <!-- Please include SEO-friendly description -->
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/concur-api-sample-code)](https://api.reuse.software/info/github.com/SAP-samples/concur-api-sample-code)
+
+
 ## Requirements
 
 #### Credentials and software
